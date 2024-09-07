@@ -2,10 +2,7 @@
 
 
 
-- 👋 Hi, I’m @saniiikaaa
-
-- There are many ways to slay but what if somebody says "Java Springboot"!!!
-- 
+- 👋 Hi, I’m @saniiikaaa 
 - 🔧 Technologies & Tools:
 - Languages: Java, Html,css,javascript
 - Frameworks: Spring Boot, Spring MVC, React Js
