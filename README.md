@@ -3,9 +3,8 @@
 
 
 - 👋 Hi, I’m @saniiikaaa
-- 
-- Business analytics is usually not in tandem with java development.
-- But I believe knowledge of this freaky duo within one brain can be a great asset to Company, Society and the human him/her self.
+
+- There are many ways to slay but what if somebody says "Java Springboot"!!!
 - 
 - 🔧 Technologies & Tools:
 - Languages: Java, Html,css,javascript
