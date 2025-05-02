@@ -5,8 +5,7 @@
 - 👋 Hi, I’m @saniiikaaa 
 - 🔧 Technologies & Tools:
 - Languages: Java, Html,css,javascript
-- Frameworks: Spring Boot, Spring MVC, React Js
+- Frameworks: Spring Boot, Spring MVC,Spring Security , Spring Web -Jasper , Spring Hibernate , JSP Queries
 - Databases: MySQL.
--🌱 Currently Learning :Spring Boot concepts
 
 - 📫 How to reach me www.linkedin.com/in/sanika-rasal-1230b1248
